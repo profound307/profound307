@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=26&pause=1200&color=1F75FE&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Aspiring+Data+Analyst;Problem+Solver;Data+Analytics+%7C+SQL+%7C+Python;Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Trust+The+Process;Consistency+Beats+Motivation;Dream+Big+Build+Bigger;Discipline+Equals+Freedom;Learning+Never+Stops;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 ---
 
 ## 👨‍💻 About Me
