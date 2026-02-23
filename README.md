@@ -70,7 +70,7 @@ Beyond technical skills, I am a creative individual with a keen eye for detail. 
 
 📧 Email: sagnik307@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sagnik-biswas-800061212  
-💻 GitHub: https://github.com/profound307## Hi there 👋
+💻 GitHub: https://github.com/profound307## 
 
 <!--
 **profound307/profound307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
